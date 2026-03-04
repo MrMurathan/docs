@@ -85,8 +85,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/axklo_logo.png",
+    "dark": "/axklo_logo.png"
   },
   "navbar": {
     "links": [
